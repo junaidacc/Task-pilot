@@ -46,7 +46,6 @@ The project is organized into distinct layers to separate concerns and improve m
 1. **Server Setup:** Relocate the Task-pilot directory to the server root (e.g., htdocs or /var/www/).
 2. **Database Import:** Execute the included SQL schema via phpMyAdmin or the MySQL Command Line.
 3. **Configuration:** Update the database credentials located in application/config/database.php.
-4. **Initialization:** Navigate to the local server URL (e.g., http://localhost/Task-pilot) to launch the system.
 
 ---
 
